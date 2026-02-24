@@ -7,13 +7,7 @@ Simple Node.js blog that serves Markdown posts from the `posts` folder. You can 
 
 Repository: https://github.com/andreashtml/not-mr-robot-app
 
-Quick start
 
-```bash
-cd "c:\Users\ahamm\OneDrive\Dokumenter\Web Development\not-mr-robot-app"
-npm install
-npm start
-```
 
 Open http://localhost:3000 in your browser.
 
