@@ -1,0 +1,13 @@
+{
+  "name": "not-mr-robot-app",
+  "version": "0.1.0",
+  "description": "Simple Node.js blog serving Markdown posts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "marked": "^5.1.1"
+  }
+}
